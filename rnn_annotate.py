@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-### Gruppe: Yen Ho, Nadja Seeberg, Steffen Freisinger
-
 import argparse
 import torch
 from Data import Data

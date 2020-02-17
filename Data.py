@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-### Gruppe: Yen Ho, Nadja Seeberg, Steffen Freisinger
-
 from collections import defaultdict
 from collections import Counter
 import operator

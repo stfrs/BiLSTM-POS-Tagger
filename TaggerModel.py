@@ -1,7 +1,5 @@
 #!/usr/bin/env python3
 
-### Gruppe: Yen Ho, Nadja Seeberg, Steffen Freisinger
-
 from Data import Data
 import torch
 import torchvision
